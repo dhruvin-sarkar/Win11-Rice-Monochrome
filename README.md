@@ -28,20 +28,11 @@
 ---
 
 ## Screenshots
-
 <div align="center">
 
-| Desktop | Terminal |
-|:---:|:---:|
-| `screenshot here` | `screenshot here` |
-
-| Spotify (Spicetify) | Discord (Vencord) |
-|:---:|:---:|
-| `screenshot here` | `screenshot here` |
-
-| FlowLauncher | Nilesoft Shell |
-|:---:|:---:|
-| `screenshot here` | `screenshot here` |
+| Desktop | Aesthetic Terminal stuff | Bar |
+|:---:|:---:|:---:|
+| <img width="1916" height="1079" alt="Screenshot 2026-04-03 123416" src="https://github.com/user-attachments/assets/842efae4-e97c-4c91-a57a-d4542a2daec2" /> | <img width="1919" height="1079" alt="Screenshot 2026-04-03 123520" src="https://github.com/user-attachments/assets/0d5eb59e-d66b-4711-9247-e2ae507f31c6" /> | <img width="1919" height="42" alt="Screenshot 2026-04-03 123450" src="https://github.com/user-attachments/assets/c7474afe-517a-4c72-bcd1-1edff3075439" /> |
 
 </div>
 
